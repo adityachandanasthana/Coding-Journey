@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
