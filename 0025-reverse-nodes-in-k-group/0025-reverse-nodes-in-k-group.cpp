@@ -7,7 +7,7 @@ public:
 
         ListNode* fast = head;
 
-        // Check if k nodes exist
+        
         for (int i = 1; i < k; i++) {
             if (fast == NULL || fast->next == NULL)
                 return head;
@@ -21,7 +21,7 @@ public:
         ListNode* curr = slow;
         ListNode* next = NULL;
 
-        // Reverse current group
+        
         while (curr != stop) {
             next = curr->next;
             curr->next = prev;
@@ -29,7 +29,7 @@ public:
             curr = next;
         }
 
-        // Connect remaining groups
+        
         slow->next = reverseKGroup(stop, k);
 
         return prev;
