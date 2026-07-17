@@ -2,33 +2,37 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
 
-        if(head == NULL || head->next == NULL)
+        if (head == NULL)
             return head;
 
-        // Find length
-        int len = 0;
+        vector<int> arr;
+
         ListNode* temp = head;
-        while(temp != NULL){
-            len++;
+
+       
+        while (temp != NULL) {
+            arr.push_back(temp->val);
             temp = temp->next;
         }
 
-        k %= len;           // Important optimization
+        int n = arr.size();
 
-        while(k != 0){
-            ListNode* curr = head;
-            ListNode* prev = NULL;
+        k = k % n;
 
-            while(curr->next != NULL){
-                prev = curr;
-                curr = curr->next;
-            }
+        vector<int> ans(n);
 
-            curr->next = head;
-            head = curr;
-            prev->next = NULL;
+        
+        for (int i = 0; i < n; i++) {
+            ans[(i + k) % n] = arr[i];
+        }
 
-            k--;
+        temp = head;
+        int i = 0;
+
+        while (temp != NULL) {
+            temp->val = ans[i];
+            temp = temp->next;
+            i++;
         }
 
         return head;
