@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grosshweadd/Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/grosshweadd/Coding-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
