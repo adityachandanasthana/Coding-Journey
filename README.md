@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/grosshweadd/Coding-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/grosshweadd/Coding-Journey/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
 | [0735-asteroid-collision](https://github.com/grosshweadd/Coding-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/grosshweadd/Coding-Journey/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
