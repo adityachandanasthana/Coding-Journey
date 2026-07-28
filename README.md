@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/grosshweadd/Coding-Journey/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/grosshweadd/Coding-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/grosshweadd/Coding-Journey/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/grosshweadd/Coding-Journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/grosshweadd/Coding-Journey/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
