@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grosshweadd/Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/grosshweadd/Coding-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/grosshweadd/Coding-Journey/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/grosshweadd/Coding-Journey/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
 ## Math
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -125,9 +129,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
