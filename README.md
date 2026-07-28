@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/grosshweadd/Coding-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/grosshweadd/Coding-Journey/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grosshweadd/Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/grosshweadd/Coding-Journey/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/grosshweadd/Coding-Journey/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/grosshweadd/Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/grosshweadd/Coding-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
