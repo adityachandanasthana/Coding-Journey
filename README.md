@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/grosshweadd/Coding-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/grosshweadd/Coding-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/grosshweadd/Coding-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/grosshweadd/Coding-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/grosshweadd/Coding-Journey/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
