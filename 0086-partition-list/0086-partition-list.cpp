@@ -2,24 +2,22 @@ class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
 
-
         ListNode* lessDummy = new ListNode(0);
         ListNode* greaterDummy = new ListNode(0);
 
         ListNode* less = lessDummy;
         ListNode* greater = greaterDummy;
 
-     
         ListNode* curr = head;
 
         while (curr != NULL) {
 
             if (curr->val < x) {
                 less->next = curr;
-                less = less->next;      
+                less = less->next;
             }
             else {
-                greater->next = curr;   
+                greater->next = curr;
                 greater = greater->next;
             }
 
@@ -29,10 +27,9 @@ public:
         
         greater->next = NULL;
 
-        
+
         less->next = greaterDummy->next;
 
-       
         return lessDummy->next;
     }
 };
