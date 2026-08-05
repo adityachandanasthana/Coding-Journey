@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/grosshweadd/Coding-Journey/tree/master/1089-duplicate-zeros) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grosshweadd/Coding-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/grosshweadd/Coding-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/grosshweadd/Coding-Journey/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -133,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/grosshweadd/Coding-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/grosshweadd/Coding-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/grosshweadd/Coding-Journey/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/grosshweadd/Coding-Journey/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/grosshweadd/Coding-Journey/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
