@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grosshweadd/Coding-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/grosshweadd/Coding-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/grosshweadd/Coding-Journey/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/grosshweadd/Coding-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/grosshweadd/Coding-Journey/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/grosshweadd/Coding-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
