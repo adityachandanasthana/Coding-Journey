@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/grosshweadd/Coding-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/grosshweadd/Coding-Journey/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/grosshweadd/Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0649-dota2-senate](https://github.com/grosshweadd/Coding-Journey/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/grosshweadd/Coding-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/grosshweadd/Coding-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/grosshweadd/Coding-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/grosshweadd/Coding-Journey/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/grosshweadd/Coding-Journey/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/grosshweadd/Coding-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/grosshweadd/Coding-Journey/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/grosshweadd/Coding-Journey/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
