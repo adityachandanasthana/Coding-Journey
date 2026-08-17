@@ -18,7 +18,7 @@ public:
         }
 
         if(root->left==NULL && root->right==NULL){
-            return targetSum==root->val;
+            return targetSum == root->val;
         }
 
         targetSum-=root->val;
