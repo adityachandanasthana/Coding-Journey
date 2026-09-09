@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/grosshweadd/Coding-Journey/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/grosshweadd/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grosshweadd/Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/grosshweadd/Coding-Journey/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/grosshweadd/Coding-Journey/tree/master/0113-path-sum-ii) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/grosshweadd/Coding-Journey/tree/master/0113-path-sum-ii) |
