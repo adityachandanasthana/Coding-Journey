@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/grosshweadd/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grosshweadd/Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grosshweadd/Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grosshweadd/Coding-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Recursion
 |  |
@@ -305,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
