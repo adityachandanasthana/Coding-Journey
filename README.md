@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grosshweadd/Coding-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/grosshweadd/Coding-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/grosshweadd/Coding-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
 | ------- |
