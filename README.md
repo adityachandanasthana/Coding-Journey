@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/grosshweadd/Coding-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/grosshweadd/Coding-Journey/tree/master/0496-next-greater-element-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/grosshweadd/Coding-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/grosshweadd/Coding-Journey/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/grosshweadd/Coding-Journey/tree/master/0506-relative-ranks) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/grosshweadd/Coding-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/grosshweadd/Coding-Journey/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/grosshweadd/Coding-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/grosshweadd/Coding-Journey/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/grosshweadd/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
