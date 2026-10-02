@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/grosshweadd/Coding-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/grosshweadd/Coding-Journey/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/grosshweadd/Coding-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/grosshweadd/Coding-Journey/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/grosshweadd/Coding-Journey/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/grosshweadd/Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/grosshweadd/Coding-Journey/tree/master/0649-dota2-senate) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
