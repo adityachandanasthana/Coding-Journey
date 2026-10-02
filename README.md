@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/grosshweadd/Coding-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/grosshweadd/Coding-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/grosshweadd/Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/grosshweadd/Coding-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/grosshweadd/Coding-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/grosshweadd/Coding-Journey/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/grosshweadd/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/grosshweadd/Coding-Journey/tree/master/0202-happy-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/grosshweadd/Coding-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/grosshweadd/Coding-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/grosshweadd/Coding-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/grosshweadd/Coding-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grosshweadd/Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/grosshweadd/Coding-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/grosshweadd/Coding-Journey/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/grosshweadd/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/grosshweadd/Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/grosshweadd/Coding-Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
