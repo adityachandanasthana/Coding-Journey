@@ -7,27 +7,38 @@ public:
         if(s.size() < p.size())
             return ans;
 
-        map<char,int> mp;
-        map<char,int> window;
+        unordered_map<char, int> mp1;
+        unordered_map<char, int> mp2;
 
-        for(char c : p)
-            mp[c]++;
+    
+        for(char c : p) {
+            mp1[c]++;
+        }
 
-        int k = p.size();
+        int left = 0;
 
-        for(int i = 0; i < s.size(); i++) {
+        for(int right = 0; right < s.size(); right++) {
 
-            window[s[i]]++;
 
-            if(i >= k) {
-                window[s[i-k]]--;
+            mp2[s[right]]++;
 
-                if(window[s[i-k]] == 0)
-                    window.erase(s[i-k]);
+      
+            if(right - left + 1 > p.size()) {
+
+                mp2[s[left]]--;
+
+
+                if(mp2[s[left]] == 0) {
+                    mp2.erase(s[left]);
+                }
+
+                left++;
             }
 
-            if(window == mp)
-                ans.push_back(i-k+1);
+           
+            if(mp1 == mp2) {
+                ans.push_back(left);
+            }
         }
 
         return ans;
