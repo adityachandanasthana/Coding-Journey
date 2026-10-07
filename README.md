@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/grosshweadd/Coding-Journey/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/grosshweadd/Coding-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/grosshweadd/Coding-Journey/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/grosshweadd/Coding-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1089-duplicate-zeros](https://github.com/grosshweadd/Coding-Journey/tree/master/1089-duplicate-zeros) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/grosshweadd/Coding-Journey/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
