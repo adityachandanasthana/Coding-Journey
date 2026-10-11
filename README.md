@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
+| [2293-min-max-game](https://github.com/grosshweadd/Coding-Journey/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/grosshweadd/Coding-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
+| [2293-min-max-game](https://github.com/grosshweadd/Coding-Journey/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
