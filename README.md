@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/grosshweadd/Coding-Journey/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/grosshweadd/Coding-Journey/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/grosshweadd/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/grosshweadd/Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/grosshweadd/Coding-Journey/tree/master/0844-backspace-string-compare) |
 | [1089-duplicate-zeros](https://github.com/grosshweadd/Coding-Journey/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/grosshweadd/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/grosshweadd/Coding-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/grosshweadd/Coding-Journey/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/grosshweadd/Coding-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/grosshweadd/Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/grosshweadd/Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/grosshweadd/Coding-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
