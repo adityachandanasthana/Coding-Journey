@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/grosshweadd/Coding-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1089-duplicate-zeros](https://github.com/grosshweadd/Coding-Journey/tree/master/1089-duplicate-zeros) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/grosshweadd/Coding-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/grosshweadd/Coding-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grosshweadd/Coding-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/grosshweadd/Coding-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/grosshweadd/Coding-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/grosshweadd/Coding-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/grosshweadd/Coding-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
