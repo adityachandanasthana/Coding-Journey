@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/grosshweadd/Coding-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/grosshweadd/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2293-min-max-game](https://github.com/grosshweadd/Coding-Journey/tree/master/2293-min-max-game) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/grosshweadd/Coding-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/grosshweadd/Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/grosshweadd/Coding-Journey/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/grosshweadd/Coding-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/grosshweadd/Coding-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/grosshweadd/Coding-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/grosshweadd/Coding-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/grosshweadd/Coding-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/grosshweadd/Coding-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
