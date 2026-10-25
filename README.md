@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/grosshweadd/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/grosshweadd/Coding-Journey/tree/master/0202-happy-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/grosshweadd/Coding-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/grosshweadd/Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/grosshweadd/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/grosshweadd/Coding-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/grosshweadd/Coding-Journey/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/grosshweadd/Coding-Journey/tree/master/0649-dota2-senate) |
+| [1323-maximum-69-number](https://github.com/grosshweadd/Coding-Journey/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
